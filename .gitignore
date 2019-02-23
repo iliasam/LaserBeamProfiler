@@ -34,7 +34,6 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
 
 # Debug files
 *.dSYM/
@@ -61,3 +60,6 @@ Firmware/test1/EWARM/STM32F303xC/Obj/project.pbd.browse
 Firmware/test1/EWARM/STM32F303xC/Obj/project.pbd
 *.tmp
 Firmware/EWARM/settings/
+Firmware/EWARM/profiler/Obj/profiler.pbd
+Firmware/EWARM/profiler/Obj/
+Firmware/EWARM/profiler/Exe/
