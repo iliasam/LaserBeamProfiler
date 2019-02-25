@@ -9,10 +9,10 @@ My profiler consists of:
 * HIWIN linear bearing
 * Blade
 * Photodiode with amplifier
-* A4988 stepper module
+* A4988 module for a stepper motor 
 * Blue Pill - STM32F103 board.  
   
-Photodiode amplifer is connected to PA0 pin.  
+Photodiode amplifer is connected to the PA0 pin.  
 A4988 step input must be connected to the PB0 pin.  
 A4988 dir input must be connected to the PB1 pin.  
 A4988 enable input must be connected to the PB11 pin.  
