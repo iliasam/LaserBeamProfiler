@@ -138,6 +138,7 @@ void profiler_save_captured_point(void)
   }
 }
 
+
 void profiler_handler(void)
 {
   if (profiler_need_send_data_flag)
