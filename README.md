@@ -21,4 +21,4 @@ Profiler is making 2000 steps and then send captured ADC results to the PC by US
   
 
 PC utility interface:  
-![Alt text](MBalancing.png?raw=true "Image")
+![Alt text](Screenshot.png?raw=true "Image")
